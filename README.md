@@ -1,0 +1,1 @@
+# --1-12-1-11-php-declare-strict_types-1-namespace-PhpMyAdmin-Controllers-Server-use-PhpMy
